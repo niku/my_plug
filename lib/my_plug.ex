@@ -1,0 +1,2 @@
+defmodule MyPlug do
+end
